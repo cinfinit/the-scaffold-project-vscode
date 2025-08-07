@@ -21,6 +21,7 @@
       }
     ]
   },
+  "publisher": "cinfinite",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cinfinit/the-scaffold-project-vscode.git"
