@@ -10,6 +10,7 @@
   "categories": [
     "Other"
   ],
+  "keywords": [   "cli",   "scaffold",   "project-setup",   "project-scaffolding",   "folder-structure",   "directory-structure",   "yaml",   "project-generator",   "boilerplate",   "starter-kit",   "template",   "automation",   "codegen",   "structure-generator",   "node-cli",   "dev-tool",   "developer-tools",   "project-template",   "project-creator",   "scaffold-cli" ],
   "activationEvents": [
      "onCommand:scaffold.run"
   ],
